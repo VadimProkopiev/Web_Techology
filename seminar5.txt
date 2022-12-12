@@ -1,0 +1,27 @@
+<?xml version="1.2"?>
+<shool>
+	<student>
+		<name>"Анна"</name>
+		<surname> "Карпова"</surname>
+		<patronymic>"Александровна"</patronymic>
+		<date> 2008 </date>
+		<class> "8A" </class>
+		<adress> "г. Москва, Ленинский проспект, д. 2, кв. 277"</adress>
+	</student>
+	<student>
+		<name>"Михаил"</name>
+		<surname> " Малышкин"</surname>
+		<patronymic>"Иванович"</patronymic>
+		<date> 2014 </date>
+		<class> "2Б" </class>
+		<adress> "г. Москва, Ленградское шоссе, д. 10, кв. 56"</adress>
+	</student>
+	<student>
+		<name>"Алла"</name>
+		<surname> "Андреева"</surname>
+		<patronymic>"Петровна"</patronymic>
+		<date> 2015  </date>
+		<class> "1Г" </class>
+		<adress> "г. Москва, Дмитровское шоссе, д. 107, кв. 2 "</adress>
+	</student>
+</shool>
